@@ -30,3 +30,4 @@ for filename in filenames:
 
 with open("lyrics_data.txt", "w") as f:
     f.write(lyrics)
+
