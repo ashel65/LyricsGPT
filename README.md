@@ -1,2 +1,2 @@
-# FreestyleRapGenerator
-An AI model that generates freestyle rap lyrics based on a given context or topic through fine-tuning GPT-2 and scraping lyrics from Genius. Trains on the Palmetto Cluster.
+# LyricsGPT
+An AI model (GPT-2) that generates freestyle song lyrics based on a given context or topic. It is fine-tuned on lyrics data retrieved from the Genius API using Clemson's Palmetto Cluster.
